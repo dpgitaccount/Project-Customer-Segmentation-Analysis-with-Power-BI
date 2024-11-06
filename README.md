@@ -32,7 +32,7 @@ Use Power Query to transform the data as required.
 Used for finding the statical and categorical data details in depth.
 
 3.Implement clustering techniques:- 
-such as K-means clustering, Linear Regression using Python for accurate calculations.
+such as K-means clustering, Linear Regression using Python for Model Training and Evaluation and accurate calculations.
 
 4.Define and label segments based on key variables like purchasing frequency, spending amount, and demographic indicators.
 Visualization and Dashboard Creation
