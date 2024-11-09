@@ -31,10 +31,22 @@ Use Power Query to transform the data as required.
 2.Exploratory Data Analysis:- 
 Used for finding the statical and categorical data details in depth.
 
-3.Implement clustering techniques:- 
-such as K-means clustering, Linear Regression using Python for Model Training and Evaluation and accurate calculations.
+3.Implement clustering techniques such as:- 
 
-fig = px.scatter_3d(df, x='age', y='income', z='spending', color='Cluster')
+* K-means clustering -
+computer to use unlabeled, unclassified data and enabling the algorithm to operate on that data without supervision. Without any previous data training, the machine’s job in this case is to organize unsorted data according to parallels, patterns, and variations.
+
+1. Selecting Relevant Features: Focus on age, income and spending for clustering.
+2. Standardizing the Data: Scaling the features to improve clustering results.
+
+![Screenshot (303)](https://github.com/user-attachments/assets/7db0066b-3f7b-4f58-b74f-f745099d016d)
+
+
+* Linear Regression:-
+using Python for Model Training and Evaluation and accurate calculations. Linear regression is a data analysis technique that predicts the value of unknown data by using another related and known data value. It mathematically models the unknown or dependent variable and the known or independent variable as a linear equation.
+
+![Screenshot (304)](https://github.com/user-attachments/assets/1db53ab8-b774-4ea0-bf81-b6a71accd007)
+
 
 fig.update_layout(title='K-means Clustering',scene=dict(
     xaxis_title='Age',
