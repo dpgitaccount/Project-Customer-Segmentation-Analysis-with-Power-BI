@@ -45,16 +45,8 @@ computer to use unlabeled, unclassified data and enabling the algorithm to opera
 * Linear Regression:-
 using Python for Model Training and Evaluation and accurate calculations. Linear regression is a data analysis technique that predicts the value of unknown data by using another related and known data value. It mathematically models the unknown or dependent variable and the known or independent variable as a linear equation.
 
+
 ![Screenshot (304)](https://github.com/user-attachments/assets/1db53ab8-b774-4ea0-bf81-b6a71accd007)
-
-
-fig.update_layout(title='K-means Clustering',scene=dict(
-    xaxis_title='Age',
-    yaxis_title='Income',
-    zaxis_title='Spending',
-))
-# fig.show(renderer='notebook')
-fig.show()
 
 
 4.Define and label segments based on key variables like purchasing frequency, spending amount, and demographic indicators.
@@ -77,6 +69,9 @@ Displays the distribution of customers across different segments.
 
 2.Demographic Breakdown:-
 Shows age, gender, income, and location details for each segment.
+
+![Screenshot (305)](https://github.com/user-attachments/assets/a2dd8500-9b12-4d27-8dc8-7cd1b74e1620)
+
 
 3.Purchase Patterns:-
 Visualizes metrics such as average transaction value, purchase frequency, and total spend per segment.
