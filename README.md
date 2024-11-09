@@ -14,6 +14,23 @@ Customer Name
 Age, gender, location, income 
 Purchase frequency and transaction amounts
 
+
+* Size of Dataset:- The dataset contains 1,000 rows and 8 columns.
+  
+* breakdown of its structure and functionality:-
+The dataset includes 1,000 entries, which offers a moderate sample size to conduct meaningful analysis on customer-related metrics.
+
+* Columns and Functionality:-
+
+name: Represents customer names; this may serve as an identifier or simply as sample data.
+age: Captures the customer’s age, useful for demographic analysis.
+gender: Indicates customer gender, allowing for segmentation.
+education: Specifies educational attainment (e.g., High School, Bachelor, Master).
+income: Annual income, essential for analyzing customer purchasing power.
+country: The country of residence, useful for geographic segmentation.
+purchase_frequency: The average number of purchases within a period, important for identifying high- and low-frequency buyers.
+spending: Represents the total spending, which can help in analyzing purchasing behavior and revenue contributions.
+
 * Dataset Link - https://www.kaggle.com/datasets/dp1224/customer-segments-data
 
 * Power BI Dashboarding Vizualisation Link - https://github.com/dpgitaccount/ProjectCustomerSegmentationAnalysiswithPowerBI/blob/main/Project%20%20Customer%20Segmentation%20Analysis%20with%20Power%20BI/Dashboard_of_Customer_Segmentation_Analysis.pbix
