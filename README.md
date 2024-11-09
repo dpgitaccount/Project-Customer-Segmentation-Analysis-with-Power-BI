@@ -74,6 +74,11 @@ Use filters to view different customer segments, analyze individual metrics, and
 Export and Share:-
 Power BI allows exporting the report as a PDF or publishing to Power BI Service for online access.
 
+⇒Dashboard Presentation of this Priject-
+
+![Screenshot (301)](https://github.com/user-attachments/assets/08ce5083-f0da-4c5e-9c9b-5ee0060fd388)
+
+
 ⇒ Conclusion:-
 Customer segmentation using Power BI enables businesses to adopt a data-driven approach to understanding and engaging with their customers. By creating targeted, segment-specific strategies, businesses can optimize marketing, enhance customer satisfaction, and improve revenue.
 
