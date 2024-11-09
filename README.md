@@ -16,7 +16,7 @@ Purchase frequency and transaction amounts
 
 * Dataset Link - https://www.kaggle.com/datasets/dp1224/customer-segments-data
 
-* Power BI Dashboarding Vizualisation Link - 
+* Power BI Dashboarding Vizualisation Link - https://github.com/dpgitaccount/Project-Customer-Segmentation-Analysis-with-Power-BI/blob/main/Project%20%20Customer%20Segmentation%20Analysis%20with%20Power%20BI/Dashboard_of_Customer_Segmentation_Analysis.pbix
 
 ⇒ Tools and Technologies:-
 Power BI:- Used for data modeling, analysis, and creating interactive visualizations.
