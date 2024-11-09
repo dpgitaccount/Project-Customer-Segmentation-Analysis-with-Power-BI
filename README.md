@@ -22,7 +22,7 @@ Pandas, Numpy and Seaborn:- For cleaning Data and vizualization.
 Excel/CSV:- Used for initial data storage and upload into Power BI.
 Machine Learning Algorithms:- For finding the accurate segments of customers
 
-⇒Project Workflow:-
+⇒ Project Workflow:-
 1.Data Import and Preparation:-
 Load customer data into Power BI, ensuring data consistency and accuracy.
 Clean data to handle missing values, outliers, and inconsistencies.
@@ -33,6 +33,17 @@ Used for finding the statical and categorical data details in depth.
 
 3.Implement clustering techniques:- 
 such as K-means clustering, Linear Regression using Python for Model Training and Evaluation and accurate calculations.
+
+fig = px.scatter_3d(df, x='age', y='income', z='spending', color='Cluster')
+
+fig.update_layout(title='K-means Clustering',scene=dict(
+    xaxis_title='Age',
+    yaxis_title='Income',
+    zaxis_title='Spending',
+))
+# fig.show(renderer='notebook')
+fig.show()
+
 
 4.Define and label segments based on key variables like purchasing frequency, spending amount, and demographic indicators.
 Visualization and Dashboard Creation
