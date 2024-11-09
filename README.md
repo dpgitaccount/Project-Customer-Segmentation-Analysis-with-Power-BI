@@ -42,15 +42,15 @@ Excel/CSV:- Used for initial data storage and upload into Power BI.
 Machine Learning Algorithms:- For finding the accurate segments of customers
 
 ⇒ Project Workflow:-
-1.Data Import and Preparation:-
+1. Data Import and Preparation:-
 Load customer data into Power BI, ensuring data consistency and accuracy.
 Clean data to handle missing values, outliers, and inconsistencies.
 Use Power Query to transform the data as required.
 
-2.Exploratory Data Analysis:- 
+2. Exploratory Data Analysis:- 
 Used for finding the statical and categorical data details in depth.
 
-3.Implement clustering techniques such as:- 
+3. Implement clustering techniques such as:- 
 
 * K-means clustering -
 computer to use unlabeled, unclassified data and enabling the algorithm to operate on that data without supervision. Without any previous data training, the machine’s job in this case is to organize unsorted data according to parallels, patterns, and variations.
@@ -70,31 +70,32 @@ using Python for Model Training and Evaluation and accurate calculations. Linear
 ![Screenshot (304)](https://github.com/user-attachments/assets/1db53ab8-b774-4ea0-bf81-b6a71accd007)
 
 
-4.Define and label segments based on key variables like purchasing frequency, spending amount, and demographic indicators.
+4. Define and label segments based on key variables like purchasing frequency, spending amount, and demographic indicators.
 Visualization and Dashboard Creation
 
-5.Design a user-friendly and interactive dashboard that highlights:-
+5. Design a user-friendly and interactive dashboard that highlights:-
 Customer demographics across segments.
 Purchasing behaviors per segment.
 Key performance indicators like Maximum spend, purchase frequency, and customer Income.
 Enable filtering and drill-down options for detailed exploration of each segment.
 Insight Generation and Recommendations
 
-6.Analyze segment characteristics to generate targeted marketing insights.\
+6. Analyze segment characteristics to generate targeted marketing insights.
 
-7.Provide recommendations to enhance customer engagement, loyalty, and retention based on segment-specific behaviors.
+7. Provide recommendations to enhance customer engagement, loyalty, and retention based on segment-specific behaviors.
 
 ⇒ Key Visualizations and Metrics:-
-1.Segmentation Overview:-
+
+1. Segmentation Overview:-
 Displays the distribution of customers across different segments.
 
-2.Demographic Breakdown:-
+2. Demographic Breakdown:-
 Shows age, gender, income, and location details for each segment.
 
 ![Screenshot (305)](https://github.com/user-attachments/assets/a2dd8500-9b12-4d27-8dc8-7cd1b74e1620)
 
 
-3.Purchase Patterns:-
+3. Purchase Patterns:-
 Visualizes metrics such as average transaction value, purchase frequency, and total spend per segment.
 
 ⇒ Results:-
@@ -113,7 +114,7 @@ Use filters to view different customer segments, analyze individual metrics, and
 Export and Share:-
 Power BI allows exporting the report as a PDF or publishing to Power BI Service for online access.
 
-⇒Dashboard Presentation of this Priject-
+⇒Dashboard Presentation of this Project-
 
 ![Screenshot (301)](https://github.com/user-attachments/assets/08ce5083-f0da-4c5e-9c9b-5ee0060fd388)
 
