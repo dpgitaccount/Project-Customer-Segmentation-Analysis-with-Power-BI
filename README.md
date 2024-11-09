@@ -14,7 +14,9 @@ Customer Name
 Age, gender, location, income 
 Purchase frequency and transaction amounts
 
-Dataset Link - https://www.kaggle.com/datasets/dp1224/customer-segments-data
+* Dataset Link - https://www.kaggle.com/datasets/dp1224/customer-segments-data
+
+* Power BI Dashboarding Vizualisation Link - 
 
 ⇒ Tools and Technologies:-
 Power BI:- Used for data modeling, analysis, and creating interactive visualizations.
@@ -38,8 +40,10 @@ computer to use unlabeled, unclassified data and enabling the algorithm to opera
 
 1. Selecting Relevant Features: Focus on age, income and spending for clustering.
 2. Standardizing the Data: Scaling the features to improve clustering results.
+   
 
 ![Screenshot (303)](https://github.com/user-attachments/assets/7db0066b-3f7b-4f58-b74f-f745099d016d)
+
 
 
 * Linear Regression:-
